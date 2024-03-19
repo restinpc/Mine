@@ -1,2 +1,2 @@
-![]([http://url/to/img.png](https://github.com/restinpc/Mine/blob/main/1.jpg)https://github.com/restinpc/Mine/blob/main/1.jpg)
-![]([http://url/to/img.png](https://github.com/restinpc/Mine/blob/main/1.jpg)https://github.com/restinpc/Mine/blob/main/2.jpg)
+![alt text](https://github.com/restinpc/Mine/blob/main/1.jpg?raw=true)
+![alt text](https://github.com/restinpc/Mine/blob/main/2.jpg?raw=true)
